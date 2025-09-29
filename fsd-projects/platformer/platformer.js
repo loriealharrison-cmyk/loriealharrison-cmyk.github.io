@@ -34,7 +34,7 @@ $(function () {
     createPlatform(200,300,400,10);
     createPlatform(1200,200,300,10,"pink");
     createPlatform(100,250,350,10,"pink");
-    createPlatform(100,150,200,10,"blue");
+    createPlatform(100,150,250,10,"blue");
   
     createPlatform(300,200,250,10,"purple");
     createCollectable("steve",500,10);
